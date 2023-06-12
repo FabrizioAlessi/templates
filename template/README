@@ -1,0 +1,24 @@
+MOCKUP SITO TOUR OPERATOR
+
+Approccio mobile first, full responsive
+  Breakpoint:
+    xs - 576px
+    md - 768px
+    xl - 1200px
+
+Library usate: 
+  Bootstrap
+  Fontawesome
+
+API utilizzate:
+  GoogleMaps (https://developers.google.com/maps?hl=it)
+
+simple hotels mock rest API:
+  URL https://github.com/Lemoncode/simple-hotels-mock-rest-api/tree/master
+  Copyright (c) 2018 Lemoncode
+
+NOTA: il templates non è completo, in particolare le immagini sono solo dei placeholder, e presenta ancora qualche piccolo bug
+TODO: 
+  -correzione colour palette
+  -revisione e snellimento regole CSS
+  -rimozione commenti
